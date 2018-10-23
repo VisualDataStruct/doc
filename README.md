@@ -16,6 +16,8 @@ This is the doc of visual-ds's api and database.
 
      - [`PUT` /user/{id}](./api/user/profile.md "doc of change user api")
 
+     - [`PUT` /user/security/{id}](./api/user/security.md "doc of change password api")
+
 - [Classification]()
 
 `Database`
@@ -25,3 +27,5 @@ This is the doc of visual-ds's api and database.
 - [classification](./database/classification.md "doc of table classification")
 
 - [algorithm](./database/algorithm.md "doc of table algorithm")
+
+- [verify](./database/verify.md "doc of table verify")
