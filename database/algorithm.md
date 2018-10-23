@@ -3,7 +3,7 @@
 | Col | Type | Unique | Default | Nullable | Comment |
 | --- | --- | --- | --- | --- | --- |
 | id | Increment | True | | | |
-| classification_id | Integer | | 0 | | refer to [classification.id](./classification "doc of talbe classification"), 0 for no classification |
+| classification_id | Integer | | 0 | | refer to [classification.id](./classification.md "doc of talbe classification"), 0 for no classification |
 | name | String | True | | | |
 | pseudocode | Text(Json/Array) | | | | 伪代码 |
 | CPlusCode | Text(Json/Array) | | NULL | True | C++ code |
