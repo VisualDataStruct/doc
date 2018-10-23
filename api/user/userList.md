@@ -6,8 +6,7 @@
 
 | Key | Type | Required | Commit |
 | --- | --- | --- | --- |
-| offset | Integer | True | |
-| limit | Integer | True | |
+| | | | |
 
 ### Authorization
 
