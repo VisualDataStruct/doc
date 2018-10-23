@@ -8,9 +8,11 @@ This is the doc of visual-ds's api and database.
 
      - [`POST` /login](./api/auth/login.md "doc of login api")
 
-     - [`POST` /user/forget](./api/auth/forget.md "doc of forget password api")
+     - [`PUT` /auth/security/{id}](./api/auth/security.md "doc of change password api")
 
-     - [`PUT` /user/security/{id}](./api/auth/security.md "doc of change password api")
+     - [`POST` /auth/forget](./api/auth/forget.md "doc of forget password api")
+
+     - [`POST` /auth/reset](./api/auth/reset.md "doc of reset password api")
 
 - [User](./api/user/index.md "list of user api")
 
