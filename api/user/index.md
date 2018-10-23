@@ -1,6 +1,6 @@
 # API for User
 
-- [`POST` /user/add](./add "doc of add user api") 添加用户
+- [`POST` /user/add](./add.md "doc of add user api") 添加用户
 
 - [`GET` /user](./userList.md "doc of user list api") 用户列表
 
