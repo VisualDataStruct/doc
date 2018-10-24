@@ -31,6 +31,10 @@ This is the doc of visual-ds's api and database.
      - [`POST` /classification](./api/classification/add.md "doc of add classification api")
 
      - [`PUT` /classification/{id}](./api/classification/change.md "doc of change classification api")
+     
+     - [`DELETE` /classification/{id}](./api/classification/delete.md "doc of delete classification api")
+
+     - [`POST` /classification/{id}](./api/classification/restore.md "doc of restore classification api")
 
 `Database`
 
