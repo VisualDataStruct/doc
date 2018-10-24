@@ -24,9 +24,13 @@ This is the doc of visual-ds's api and database.
 
      - [`PUT` /user/{id}](./api/user/profile.md "doc of change user api")
 
-     - [`DELETE` /user/{id}](./api/user/delete.md "doc of delete user api")
+- [Classification](./api/classification/index.md "list of classification api")
 
-- [Classification]()
+     - [`GET` /classification](./api/classification/classificationList.md "doc of get classification list api")
+
+     - [`POST` /classification](./api/classification/add.md "doc of add classification api")
+
+     - [`PUT` /classification/{id}](./api/classification/change.md "doc of change classification api")
 
 `Database`
 
