@@ -36,6 +36,24 @@ This is the doc of visual-ds's api and database.
 
      - [`POST` /classification/{id}](./api/classification/restore.md "doc of restore classification api")
 
+- [Algorithm](./api/algorithm/index.md "list of algorithm api")
+
+     - [`GET` /classification/{id}/algorithm](./api/algorithm/list.md "doc of get algorithm list api")
+
+     - [`GET` /classification/{id}/algorithm/{id}](./api/algorithm/detail.md "doc of algorithm detail api")
+
+     - [`POST` /classification/{id}/algorithm](./api/algorithm/add.md "doc of add algorithm api")
+
+     - [`PUT` /classification/{id}/algorithm/{id}/verify](./api/algorithm/verify.md "doc of verify algorithm api")
+     
+     - [`PUT` /classification/{id}/algorithm/{id}](./api/algorithm/change.md "doc of change algorithm api")
+
+     - [`DELETE` /classification/{id}/algorithm/{id}](./api/algorithm/delete.md)
+
+     - [`POST` /classification/{id}/algorithm/{id}](./api/algorithm/restore.md)
+
+     - [`POST` /classification/{id}/algorithm/{id}/problem](./api/algorithm/addProblem.md)
+
 `Database`
 
 - [user](./database/user.md "doc of table user")
