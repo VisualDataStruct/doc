@@ -9,7 +9,7 @@
 | CPlusCode | Text(Json/Array) | | NULL | True | C++ code |
 | jscode | Text(Json/Array) | | | | include init data |
 | explain | Text(Json/Array) | | | | the explain to pseudocode |
-| problem | Text(Json/Array) | | "[]" | | the problem array of this algorithm |
+| problems | Text(Json/Array) | | "[]" | | the problem array of this algorithm |
 | passed | TinyInt | | 0 | | Is admin Verified |
 | created_at | Timestamp | | | | |
 | updated_at | Timestamp | | | | |
