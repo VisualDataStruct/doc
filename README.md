@@ -58,6 +58,8 @@ This is the doc of visual-ds's api and database.
 
 - [user](./database/user.md "doc of table user")
 
+- [apitoken](./database/apitoken.md "doc of table api-token")
+
 - [classification](./database/classification.md "doc of table classification")
 
 - [algorithm](./database/algorithm.md "doc of table algorithm")
