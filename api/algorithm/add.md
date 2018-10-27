@@ -8,8 +8,8 @@
 | --- | --- | --- | --- |
 | name | String | True | |
 | classification_id | Integer | True | |
-| pseudocode | Json | True | |
-| jscode | Json | True | |
+| pseudoCode | Json | True | |
+| jsCode | Json | True | |
 | explain | Json | True | |
 | CPlusCode | Json | | |
 

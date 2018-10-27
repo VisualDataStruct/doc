@@ -27,7 +27,7 @@ Success
 | Key | Type | Commit |
 | --- | --- | --- |
 | id | String | |
-| realname | String | |
+| realName | String | |
 | email | String | |
 | github | String | |
 | contribution | Integer | |

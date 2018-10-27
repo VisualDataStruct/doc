@@ -23,9 +23,9 @@ Success
 | id | Integer | |
 | classification_id | Integer | |
 | name | String | |
-| pseudocode | Array/Json | |
+| pseudoCode | Array/Json | |
 | CPlusCode | Array/Json | |
-| jscode | Array/Json | |
+| jsCode | Array/Json | |
 | explain | Array/Json | |
 | problem | Array/Json | |
 | deleted_at | Timestamp | |

@@ -22,7 +22,7 @@ Success
 | --- | --- | --- |
 | id | String | |
 | username | String | |
-| realname | String | |
+| realName | String | |
 | phone | String | |
 | email | String | |
 | github | String | |
