@@ -6,7 +6,7 @@ This is the doc of visual-ds's api and database.
 
 - [Auth](./api/auth/index.md "list of auth api")
 
-     - [`POST` /login](./api/auth/login.md "doc of login api")
+     - [`POST` /auth/login](./api/auth/login.md "doc of login api")
 
      - [`PUT` /auth/security/{id}](./api/auth/security.md "doc of change password api")
 

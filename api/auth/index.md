@@ -1,6 +1,6 @@
 # API for Auth
 
-- [`POST` /login](./login "doc of login api") 登录
+- [`POST` /auth/login](./login "doc of login api") 登录
 
 - [`PUT` /auth/{id}/security](./security.md "doc of change password api") 修改密码
 
