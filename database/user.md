@@ -5,7 +5,7 @@
 | id | String | True | | | Use short UUId |
 | username | String | True | | | |
 | password | String | | | | |
-| realname | String | | | | People's true name |
+| realName | String | | | | People's true name |
 | email | String | True | | | |
 | github | String | | NULL | True | |
 | phone | String | | NULL | True | |
