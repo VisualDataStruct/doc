@@ -2,7 +2,7 @@
 
 - [`POST` /auth/login](./login.md "doc of login api") 登录
 
-- [`PUT` /auth/{id}/security](./security.md "doc of change password api") 修改密码
+- [`PUT` /auth/security](./security.md "doc of change password api") 修改密码
 
 - [`POST` /auth/forget](./forget.md "doc of forget password api") 忘记密码
 
