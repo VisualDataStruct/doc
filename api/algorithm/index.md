@@ -15,3 +15,5 @@
 - [`POST` /classification/{id}/algorithm/{id}](./restore.md) 恢复算法
 
 - [`POST` /classification/{id}/algorithm/{id}/problem](./addProblem.md) 添加题目
+
+- [`DELETE` /classification/{id}/algorithm/{id}/problem](./api/algorithm/deleteProblem.md) 删除题目
