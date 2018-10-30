@@ -54,6 +54,8 @@ This is the doc of visual-ds's api and database.
 
      - [`POST` /classification/{id}/algorithm/{id}/problem](./api/algorithm/addProblem.md)
 
+     - [`DELETE` /classification/{id}/algorithm/{id}/problem](./api/algorithm/deleteProblem.md)
+
 `Database`
 
 - [user](./database/user.md "doc of table user")
