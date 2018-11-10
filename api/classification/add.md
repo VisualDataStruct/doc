@@ -6,7 +6,7 @@
 
 | Key | Type | Required | Commit |
 | --- | --- | --- | --- |
-| name | String | True | |
+| name | String | True | Unique |
 | description | String | |
 
 ### Authorization
