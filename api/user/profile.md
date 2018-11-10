@@ -13,7 +13,7 @@
 
 ### Authorization
 
-`Self`
+`Admin Or Self`
 
 ### Response
 
