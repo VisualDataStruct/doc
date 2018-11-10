@@ -24,6 +24,10 @@ Success
 
 `200 OK`
 
+| Key | Type | Commit |
+| --- | --- | --- |
+| id | string | new user's id |
+
 Failed
 
 - `422` 表单验证错误
