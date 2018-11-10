@@ -1,6 +1,6 @@
 # `GET` /user/{id}
 
-## 用户列表
+## 用户详情
 
 ### Request
 
