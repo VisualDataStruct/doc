@@ -8,9 +8,9 @@
 
 | Key | Type | Required | Commit |
 | --- | --- | --- | --- |
-| username | String | True | |
+| username | String | True | Unique |
 | realName | String | True | |
-| email | String | True | 联系用户的主要方式, 将随机后的密码发到用户的邮箱 |
+| email | String | True | 联系用户的主要方式, 将随机后的密码发到用户的邮箱, Unique |
 | github | String | | |
 | phone | String | | 11 位电话 |
 | QQ | String | | |
