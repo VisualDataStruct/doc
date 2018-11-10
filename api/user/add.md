@@ -2,14 +2,15 @@
 
 ## 添加用户
 
+> 后端随机生成密码
+
 ### Request
 
 | Key | Type | Required | Commit |
 | --- | --- | --- | --- |
 | username | String | True | |
-| password | String | True | 前端随机生成并加密 |
 | realName | String | True | |
-| email | String | True | 联系用户的主要方式, 将解密后的密码发到用户的邮箱 |
+| email | String | True | 联系用户的主要方式, 将随机后的密码发到用户的邮箱 |
 | github | String | | |
 | phone | String | | 11 位电话 |
 | QQ | String | | |
