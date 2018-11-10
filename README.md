@@ -14,6 +14,8 @@ This is the doc of visual-ds's api and database.
 
      - [`POST` /auth/reset](./api/auth/reset.md "doc of reset password api")
 
+     - [`GET` /auth](./api/auth/getAuth.md "doc of get auth api")
+
 - [User](./api/user/index.md "list of user api")
 
      - [`POST` /user/add](./api/user/add.md "doc of add user api")

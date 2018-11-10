@@ -7,3 +7,5 @@
 - [`POST` /auth/forget](./forget.md "doc of forget password api") 忘记密码
 
 - [`POST` /auth/reset](./reset.md "doc of reset password aapi") 重置密码
+
+- [`GET` /auth](./getAuth.md "doc of get auth api") 当前登录用户
