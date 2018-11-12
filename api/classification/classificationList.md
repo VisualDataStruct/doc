@@ -20,7 +20,7 @@ Success
 
 | Key | Type | Commit |
 | --- | --- | --- |
-| classifications | Classification[] | logined user can get deleted classifications |
+| classifications | Classification[] | |
 
 `Classification`
 
