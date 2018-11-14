@@ -2,11 +2,14 @@
 
 ## 删除题目
 
+> 如果 name 相同，则删除 link 对应的题目，如果没有 link 就将 name 对应的题目全部删除
+
 ### Request
 
 | Key | Type | Required | Commit |
 | --- | --- | --- | --- |
 | name | String | True | |
+| link | String | | |
 
 ### Authorization
 
