@@ -20,15 +20,21 @@ Success
 
 | Key | Type | Commit |
 | --- | --- | --- |
+| id | Integer | |
+| name | String | |
+| description | String | |
+| sum | Integer | |
+| deleted_at | Timestamp | |
 | algorithms | Algorithm[] | |
 
 `Algorithm`
 
 | Key | Type | Commit |
 | --- | --- | --- |
-| id | Integer | |
+| id | Integer | |
 | classification_id | Integer | |
 | name | String | |
+| deleted_at | Timestamp | |
 
 Failed
 
