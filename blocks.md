@@ -1,11 +1,12 @@
 `通用样式`
+
 ```json
-[
+{
   "block": "block的名字",
   "child": "下一条语句",
   "comment": "伪代码",
   "comment_id": 1
-]
+}
 ```
 
 Tips:
