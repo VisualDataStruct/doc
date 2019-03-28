@@ -69,3 +69,7 @@ This is the doc of visual-ds's api and database.
 - [algorithm](./database/algorithm.md "doc of table algorithm")
 
 - [verify](./database/verify.md "doc of table verify") 
+
+`Core`
+
+- [block](./blocks.md "doc of database")
