@@ -5,10 +5,10 @@
 | id | Increment | True | | | |
 | classification_id | Integer | | 0 | | refer to [classification.id](./classification.md "doc of talbe classification"), 0 for no classification |
 | name | String | True | | | |
-| pseudoCode | Text(Json/Array) | | | | 伪代码 |
+| tagName | String | | | | |
+| blocksJson | Text(Json) | | | | 包含伪代码的用来运行的json |
 | CPlusCode | Text(Json/Array) | | NULL | True | C++ code |
-| jsCode | Text(Json/Array) | | | | include init data |
-| explain | Text(Json/Array) | | | | the explain to pseudocode |
+| blocksXml | Text(Xml) | | | | 用来恢复方块的xml |
 | problems | Text(Json/Array) | | "[]" | | the problem array of this algorithm |
 | passed | TinyInt | | 0 | | Is admin Verified |
 | created_at | Timestamp | | | | |
