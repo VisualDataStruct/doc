@@ -9,6 +9,7 @@
 | blocksJson | Text(Json) | | | | 包含伪代码的用来运行的json |
 | CPlusCode | Text(Json/Array) | | NULL | True | C++ code |
 | blocksXml | Text(Xml) | | | | 用来恢复方块的xml |
+| initVar | Text(Json/Array) | | | | 记录算法需要的初始变量及类型 |
 | problems | Text(Json/Array) | | "[]" | | the problem array of this algorithm |
 | passed | TinyInt | | 0 | | Is admin Verified |
 | created_at | Timestamp | | | | |
