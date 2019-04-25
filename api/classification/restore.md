@@ -10,7 +10,7 @@
 
 ### Authorization
 
-`Logined`
+`Admin`
 
 ### Response
 
