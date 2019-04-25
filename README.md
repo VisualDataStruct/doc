@@ -58,6 +58,10 @@ This is the doc of visual-ds's api and database.
 
      - [`DELETE` /classification/{id}/algorithm/{id}/problem](./api/algorithm/deleteProblem.md)
 
+- [File](./api/file/index.md "list of file api")
+
+     - [`POST` /file/upload](./api/file/upload.md "doc of upload file api")
+
 `Database`
 
 - [user](./database/user.md "doc of table user")
