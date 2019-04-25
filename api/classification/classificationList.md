@@ -31,5 +31,6 @@ Success
 | description | String | |
 | sum | Integer | |
 | deleted_at | Timestamp | |
+| cover | String | |
 
 Failed

@@ -8,6 +8,7 @@
 | --- | --- | --- | --- |
 | name | String | True | Unique |
 | description | String | |
+| cover | String | | |
 
 ### Authorization
 

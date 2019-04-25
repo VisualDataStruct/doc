@@ -1,12 +1,12 @@
-# `POST` /classification/{id}
+# `POST` /file/upload
 
-## 恢复被删除的分类
+## 上传文件
 
 ### Request
 
 | Key | Type | Required | Commit |
 | --- | --- | --- | --- |
-| | | | |
+| file | File | True | |
 
 ### Authorization
 
@@ -18,7 +18,11 @@ Success
 
 `200 OK`
 
+| Key | Type | Commit |
+| --- | --- | --- |
+| filename | String | |
+
 Failed
 
 - `401` 未登录
-- `404` 找不到这个分类
+- `422` 表单验证失败

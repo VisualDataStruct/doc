@@ -22,12 +22,14 @@ Success
 | --- | --- | --- |
 | id | Integer | |
 | classification_id | Integer | |
+| tagName | String | |
 | name | String | |
-| pseudoCode | Array/Json | |
+| initVar | Array/Json | |
 | CPlusCode | Array/Json | |
-| jsCode | Array/Json | |
-| explain | Array/Json | |
+| blocksXml | Array/Xml | |
+| blocksJson | Array/Json | |
 | problem | Array/Json | |
+| passed | Boolean | |
 | deleted_at | Timestamp | |
 
 Failed

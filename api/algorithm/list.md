@@ -34,6 +34,9 @@ Success
 | id | Integer | |
 | classification_id | Integer | |
 | name | String | |
+| initVar | String/Json | |
+| tagName | String | |
+| passed | Boolean | |
 | deleted_at | Timestamp | |
 
 Failed

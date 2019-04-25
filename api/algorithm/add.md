@@ -7,10 +7,10 @@
 | Key | Type | Required | Commit |
 | --- | --- | --- | --- |
 | name | String | True | |
-| classification_id | Integer | True | |
-| pseudoCode | Json | True | |
-| jsCode | Json | True | |
-| explain | Json | True | |
+| blocksXml | String(XML) | True | |
+| blocksJson | String(Json) | True | |
+| initVar | Json | True | |
+| tagName | String | True | |
 | CPlusCode | Json | | |
 
 ### Authorization
